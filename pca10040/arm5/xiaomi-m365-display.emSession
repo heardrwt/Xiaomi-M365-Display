@@ -1,0 +1,108 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="273" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../nRF5_SDK/components/ble/ble_db_discovery/ble_db_discovery.c" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-spi-i2c-master-ssd1306" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-spi-i2c-master-ssd1306" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-spi-i2c-master-ssd1306" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-spi-i2c-master-ssd1306" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="nrf52-spi-i2c-master-ssd1306"/>
+  <ProjectSessionItem path="nrf52-spi-i2c-master-ssd1306;nrf52-spi-i2c-master-ssd1306"/>
+  <ProjectSessionItem path="nrf52-spi-i2c-master-ssd1306;nrf52-spi-i2c-master-ssd1306;::BLE"/>
+  <ProjectSessionItem path="nrf52-spi-i2c-master-ssd1306;nrf52-spi-i2c-master-ssd1306;::Board Support"/>
+  <ProjectSessionItem path="nrf52-spi-i2c-master-ssd1306;nrf52-spi-i2c-master-ssd1306;Application"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-spi-i2c-master-ssd1306" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-spi-i2c-master-ssd1306" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-spi-i2c-master-ssd1306" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-spi-i2c-master-ssd1306" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="374" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ble_module.c" debugPath="../../ble_module.c" selected="0" top="363" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="20" y="32" useTextEdit="1" useBinaryEdit="0" left="0" path="../../main.c" debugPath="../../main.c" selected="1" top="17" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="60" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/libraries/bsp/bsp.h" debugPath="../../nRF5_SDK/components/libraries/bsp/bsp.h" selected="0" top="45" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="40" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/libraries/bsp/bsp.c" debugPath="../../nRF5_SDK/components/libraries/bsp/bsp.c" selected="0" top="26" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="137" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/libraries/button/app_button.c" debugPath="../../nRF5_SDK/components/libraries/button/app_button.c" selected="0" top="131" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1000" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/libraries/timer/app_timer.c" debugPath="../../nRF5_SDK/components/libraries/timer/app_timer.c" selected="0" top="981" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="10" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ble_module.h" debugPath="../../ble_module.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="30" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ninebot.c" debugPath="../../ninebot.c" selected="0" top="10" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="159" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ninebot_module.c" debugPath="../../ninebot_module.c" selected="0" top="152" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="34" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ninebot_module.h" debugPath="../../ninebot_module.h" selected="0" top="8" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="91" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/ble/ble_services/ble_nus_c/ble_nus_c.h" debugPath="../../nRF5_SDK/components/ble/ble_services/ble_nus_c/ble_nus_c.h" selected="0" top="73" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="43" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ninebot.h" debugPath="../../ninebot.h" selected="0" top="29" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="65" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/libraries/util/sdk_errors.h" debugPath="../../nRF5_SDK/components/libraries/util/sdk_errors.h" selected="0" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="58" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/softdevice/s132/headers/nrf_error.h" debugPath="../../nRF5_SDK/components/softdevice/s132/headers/nrf_error.h" selected="0" top="39" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="144" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/libraries/timer/app_timer.h" debugPath="../../nRF5_SDK/components/libraries/timer/app_timer.h" selected="0" top="125" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="29" useTextEdit="1" useBinaryEdit="0" left="0" path="../../m365_register_map.h" debugPath="../../m365_register_map.h" selected="0" top="16" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="342" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/drivers_nrf/hal/nrf_twi.h" debugPath="../../nRF5_SDK/components/drivers_nrf/hal/nrf_twi.h" selected="0" top="323" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1407" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ssd1306.c" debugPath="../../ssd1306.c" selected="0" top="1391" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="115" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/ble/ble_services/ble_nus_c/ble_nus_c.c" debugPath="../../nRF5_SDK/components/ble/ble_services/ble_nus_c/ble_nus_c.c" selected="0" top="96" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="156" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/libraries/log/nrf_log.h" debugPath="../../nRF5_SDK/components/libraries/log/nrf_log.h" selected="0" top="142" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="514" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/softdevice/s132/headers/ble_gattc.h" debugPath="../../nRF5_SDK/components/softdevice/s132/headers/ble_gattc.h" selected="0" top="505" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="843" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/softdevice/s132/headers/ble_gap.h" debugPath="../../nRF5_SDK/components/softdevice/s132/headers/ble_gap.h" selected="0" top="809" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="91" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/softdevice/s132/headers/ble_gatt.h" debugPath="../../nRF5_SDK/components/softdevice/s132/headers/ble_gatt.h" selected="0" top="60" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="901" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/ble/ble_db_discovery/ble_db_discovery.c" debugPath="../../nRF5_SDK/components/ble/ble_db_discovery/ble_db_discovery.c" selected="0" top="896" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="88" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/softdevice/s132/headers/ble_gatts.h" debugPath="../../nRF5_SDK/components/softdevice/s132/headers/ble_gatts.h" selected="0" top="71" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="86" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/softdevice/s132/headers/ble.h" debugPath="../../nRF5_SDK/components/softdevice/s132/headers/ble.h" selected="0" top="86" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="6" useTextEdit="1" useBinaryEdit="0" left="0" path="../../sdk_config.h" debugPath="../../sdk_config.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="59" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/softdevice/s132/headers/ble_types.h" debugPath="../../nRF5_SDK/components/softdevice/s132/headers/ble_types.h" selected="0" top="54" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="140" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/libraries/util/app_error.c" debugPath="../../nRF5_SDK/components/libraries/util/app_error.c" selected="0" top="113" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="156" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ssd1306.h" debugPath="../../ssd1306.h" selected="0" top="133" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="629" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/drivers_nrf/hal/nrf_gpio.h" debugPath="../../nRF5_SDK/components/drivers_nrf/hal/nrf_gpio.h" selected="0" top="604" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="80" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/boards/pca10040.h" debugPath="../../nRF5_SDK/components/boards/pca10040.h" selected="0" top="63" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="5" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../Desktop/BT.txt" debugPath="../../../../../../Desktop/BT.txt" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="55" useTextEdit="1" useBinaryEdit="0" left="0" path="../../binary.h" debugPath="../../binary.h" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="17" useTextEdit="1" useBinaryEdit="0" left="0" path="/Applications/SEGGER Embedded Studio for ARM 3.34a/include/stdio.h" debugPath="/Applications/SEGGER Embedded Studio for ARM 3.34a/include/stdio.h" selected="0" top="3" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="27" useTextEdit="1" useBinaryEdit="0" left="0" path="/Applications/SEGGER Embedded Studio for ARM 3.34a/include/__crossworks.h" debugPath="/Applications/SEGGER Embedded Studio for ARM 3.34a/include/__crossworks.h" selected="0" top="26" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="314" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/external/segger_rtt/SEGGER_RTT_printf.c" debugPath="../../nRF5_SDK/external/segger_rtt/SEGGER_RTT_printf.c" selected="0" top="298" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="138" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/toolchain/system_nrf52.c" debugPath="../../nRF5_SDK/components/toolchain/system_nrf52.c" selected="0" top="117" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="55" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/libraries/bsp/bsp_btn_ble.c" debugPath="../../nRF5_SDK/components/libraries/bsp/bsp_btn_ble.c" selected="0" top="39" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="236" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/boards/boards.h" debugPath="../../nRF5_SDK/components/boards/boards.h" selected="0" top="236" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="20" useTextEdit="1" useBinaryEdit="0" left="0" path="/Applications/SEGGER Embedded Studio for ARM 3.34a/include/stdint.h" debugPath="/Applications/SEGGER Embedded Studio for ARM 3.34a/include/stdint.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="444" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/softdevice/s132/headers/nrf_soc.h" debugPath="../../nRF5_SDK/components/softdevice/s132/headers/nrf_soc.h" selected="0" top="430" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="132" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/boards/boards.c" debugPath="../../nRF5_SDK/components/boards/boards.c" selected="0" top="110" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="42" useTextEdit="1" useBinaryEdit="0" left="0" path="../../custom_board_sparkfun.h" debugPath="../../custom_board_sparkfun.h" selected="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1183" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/device/nrf52_bitfields.h" debugPath="../../nRF5_SDK/components/device/nrf52_bitfields.h" selected="0" top="1170" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="7" useTextEdit="1" useBinaryEdit="0" left="0" path="../../uart_module.c" debugPath="../../uart_module.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="247" useTextEdit="1" useBinaryEdit="0" left="0" path="../../nRF5_SDK/components/drivers_nrf/delay/nrf_delay.h" debugPath="../../nRF5_SDK/components/drivers_nrf/delay/nrf_delay.h" selected="0" top="236" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="nrf52-spi-i2c-master-ssd1306" fileDialogDefaultFilter="*.h" autoConnectTarget="J-Link" buildConfiguration="nrf52832_ssd1306" debugSearchFileMap="" fileDialogInitialDirectory="/Users/richie/Dropbox/General Documents/2018/m365_display_working" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
